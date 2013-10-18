@@ -12,8 +12,8 @@ WPF-1
 */
 
 
-//Where's the beef?
-//Burger Has No Meat?
+//What is your car speed?
+//Are you a safe driver?
 var carSpeed = 25;
 //if car limit..
 
