@@ -12,11 +12,16 @@ WPF-1
 */
 
 
-myname = "Raul"; // global variable   
-function func() {  
-   var myname; // same as -> var myname = undefined;  
-   alert(myname); // "undefined"  
-   myname = "local";  
-   alert(myname); // "local"   
-}  
-func(); 
+//Where's the beef?
+//Burger Has No Meat?
+var carSpeed = 25;
+//if car limit..
+
+
+if(carSpeed >25 ){
+     //if car speed is  greater than 25
+     console.log("We will get a ticket!");
+}else{
+     //if it's 25 or less
+     console.log("You are a safe driver.");
+} 
