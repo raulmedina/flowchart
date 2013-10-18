@@ -23,5 +23,6 @@ if(carSpeed >25 ){
      console.log("We will get a ticket!");
 }else{
      //if it's 25 or less
+if(carSpeed <25 )	
      console.log("You are a safe driver.");
 } 
