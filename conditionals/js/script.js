@@ -12,12 +12,11 @@ WPF-1
 */
 
 
-var run = fast;
-
-var walk = slow;
-
-colsole.log(walk)
-
-
-
-
+myname = "global"; // global variable   
+function func() {  
+   var myname; // same as -> var myname = undefined;  
+   alert(myname); // "undefined"  
+   myname = "local";  
+   alert(myname); // "local"   
+}  
+func(); 
