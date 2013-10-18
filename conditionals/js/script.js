@@ -12,6 +12,12 @@ WPF-1
 */
 
 
+var run = fast;
+
+var walk = slow;
+
+colsole.log(walk)
+
 
 
 
