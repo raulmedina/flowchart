@@ -12,7 +12,7 @@ WPF-1
 */
 
 
-myname = "global"; // global variable   
+myname = "Raul"; // global variable   
 function func() {  
    var myname; // same as -> var myname = undefined;  
    alert(myname); // "undefined"  
